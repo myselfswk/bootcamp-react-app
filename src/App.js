@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Waleed Khan</h1>
         <p>
           This react App is create by Muhammad Waleed Khan
         </p>
